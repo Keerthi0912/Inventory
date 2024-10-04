@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "919344833101",
+    "project_id": "kvanaparthi-cmsc5303-flu-db993",
+    "storage_bucket": "kvanaparthi-cmsc5303-flu-db993.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:919344833101:android:8c5cc87b16cb1bb1ef7204",
+        "android_client_info": {
+          "package_name": "edu.uco.kvanaparthi.cmsc5303.lesson"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4zdvo285T-NFBdmgdojtC_KXRDWH0jh4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
