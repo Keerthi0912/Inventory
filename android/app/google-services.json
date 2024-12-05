@@ -23,6 +23,25 @@
           "other_platform_oauth_client": []
         }
       }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:919344833101:android:3639a57f0eebd8abef7204",
+        "android_client_info": {
+          "package_name": "edu.uco.kvanaparthi.cmsc5303.project1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4zdvo285T-NFBdmgdojtC_KXRDWH0jh4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
     }
   ],
   "configuration_version": "1"
