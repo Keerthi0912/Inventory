@@ -45,7 +45,7 @@ class HomeController {
       //}
     if (state.model.inventoryList
         .any((element) => element.name == state.model.tfName.text.toLowerCase().trim())) {
-    showSnackbar(message:'${state.model.tfName.text} already exists',context:context);
+    showSnackbar(message:'${state.model.tfName.text.toLowerCase().trim()} already exists',context:context);
     return;
     }
 

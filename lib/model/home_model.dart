@@ -13,7 +13,7 @@ class HomeModel {
   int quantity=1;
   final formKey = GlobalKey<FormState>();
   List<InventoryModel> inventoryList=[];
-  Color containerColor = const Color(0xffaad481);
+  Color containerColor = const Color.fromARGB(255, 168, 214, 121);
   Color textColor = Colors.black;
   TextEditingController tfName=TextEditingController();
   bool showButton = false;

@@ -142,6 +142,7 @@ class HomeState extends State<HomeScreen> {
                   bool isTyping = false; // Track if the user is typing
 
                   return AlertDialog(
+                    backgroundColor: const Color(0xFFAAD481),
                     title: const Text('Add a new item'),
                     content: Form(
                       key: model.formKey,
